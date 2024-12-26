@@ -1,11 +1,11 @@
 {
-  "version": "v1.0.0",
-  "notes": "Initial release",
-  "pub_date": "2024-12-25T08:59:32.440Z",
+  "version": "v1.0.1",
+  "notes": "No longer need to relaunch after entering license",
+  "pub_date": "2024-12-26T00:26:29.360Z",
   "platforms": {
     "darwin": {
-      "signature": "",
-      "url": ""
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTKzB5RXpkRDNuZDRZTlRCN3VOZHlRbWZyMCtVK1FpV0dJZTJnbmVWQ0dEUGwzV00ydmRZSHdqUkYzbk9DVFBuRnMraHB2djZ6c204akh3c3FLUHJ1Qi85L0dxbEM0SmdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzM1MTcyMjU0CWZpbGU6Y3V0ZW5vdGNoLmFwcC50YXIuZ3oKeGxMK0RwdnhraGhNbFAzNXNxbFF5V2tCNk1SaXdjUTBVcVdxUjM0b215c3pkOE9xNHBoenRFeTBvQ3RFekt3d1BnZ2N0RXpScVBrRHJGMkQ4Z1YrQXc9PQo=",
+      "url": "https://github.com/madlad03/CuteNotchReleases/releases/download/v1.0.1/cutenotch.app.tar.gz"
     }
   }
 }
