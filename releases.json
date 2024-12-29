@@ -1,11 +1,11 @@
 {
-  "version": "v1.0.1",
-  "notes": "No longer need to relaunch after entering license",
-  "pub_date": "2024-12-26T00:26:29.360Z",
+  "version": "v1.0.2",
+  "notes": "Notch will be on all spaces from now on.",
+  "pub_date": "2024-12-29T02:17:37.024Z",
   "platforms": {
-    "darwin": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTKzB5RXpkRDNuZDRZTlRCN3VOZHlRbWZyMCtVK1FpV0dJZTJnbmVWQ0dEUGwzV00ydmRZSHdqUkYzbk9DVFBuRnMraHB2djZ6c204akh3c3FLUHJ1Qi85L0dxbEM0SmdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzM1MTcyMjU0CWZpbGU6Y3V0ZW5vdGNoLmFwcC50YXIuZ3oKeGxMK0RwdnhraGhNbFAzNXNxbFF5V2tCNk1SaXdjUTBVcVdxUjM0b215c3pkOE9xNHBoenRFeTBvQ3RFekt3d1BnZ2N0RXpScVBrRHJGMkQ4Z1YrQXc9PQo=",
-      "url": "https://github.com/madlad03/CuteNotchReleases/releases/download/v1.0.1/cutenotch.app.tar.gz"
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTKzB5RXpkRDNuZHpPRTFJbUt3UkFNQ3pLMVQ0N2dkNWJOWHhsQStLd3BWVzhNZ3FPSjdHeThjK2NCWnhiY1Nud1JYMEdiV2lwZWVHN3QwY05mMkxEd0x4aFAzR3ZvVWdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzM1NDM4MjIyCWZpbGU6Y3V0ZW5vdGNoLmFwcC50YXIuZ3oKQTlFNlZsQ1pLZWVpZVlsSEZhWm9ZY3BhaWR3ODJLVkY1VlhGUmN0OTJuMFh4SERhVDlFL21tTlkrKzNwcW15U1dJR2pMVFdFYXRxSjNxcE05Wm9ZQ0E9PQo=",
+      "url": "https://github.com/madlad03/CuteNotchReleases/releases/download/v1.0.2/cutenotch.app.tar.gz"
     }
   }
 }
